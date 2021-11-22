@@ -1,24 +1,10 @@
 
-Important: There is a new repo for this code.
-[https://github.com/HashLips/hashlips_art_engine](https://github.com/HashLips/hashlips_art_engine)
-
-All the code in these repos was created and explained by HashLips on the main YouTube channel.
-
-To find out more please visit:
-
-
-# generative-art-node
-
-Create generative art by using the canvas api and node js
-
-![](https://github.com/HashLips/generative-art-node/blob/main/src/preview.png)
-
-## Installation
+### usage:
 
 ```sh
 git clone https://github.com/HashLips/generative-art-node
 
-yarn install
+npm install
 ```
 
 ## Usage
